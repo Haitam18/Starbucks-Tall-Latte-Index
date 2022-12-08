@@ -18,3 +18,15 @@ I was able to find pricing data on Starbucks tall lattes around the world throug
 
 ### My data:
 ![code3](code3.png "My table")
+
+
+### 2. Tidying up my data:
+
+My data was not in need of much cleaning however it still needed work. The first thing I did was select only 10 countries out of the 76 as this was the requirement. I selected 10 rows simply by using the ‘take’ command and ensuring that Canada was a part of the selected countries. I kept all this data in a table called ‘coffee_prices.’
+
+I then needed to convert the prices into floats (numbers) from string seeing that they were displayed with a currency sign ($10.23). To do this I defined a function that uses the command ‘strip’ to get rid of the currency sign and leave me with the prices as numbers. All I needed to do was apply this function to the column ‘prices’ in my table. This is important as I will later be manipulating these prices, and this can only be done if they are numbers. 
+
+This was practically all the tidying up my data needed. I am now ready to start using this data to create my index!
+
+
+
