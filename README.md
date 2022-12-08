@@ -58,6 +58,8 @@ To find the differences in pricing between the countries in comparison to Canada
 
 For a better visual representation, I graphed my findings using a bar chart with the tbl.barh method. I had the differences in prices on the x-axis and the countries on the y-axis. 
 
-From this graph it becomes quite evident as to which countries have the highest prices and which countries have the lowest when compared to Canadas prices. If your visiting Denmark from Canada I would recommend staying away from Starbucks seeing that it is the most expensive place to buy a Starbucks tall latte and you’d an extra $5.62 for the same product. In contrast, Morocco has the cheapest price out of the 10 countries so buying a tall latter from there essentially saves you 10 cents. Not that much but still cheaper!
+![code6](code6.png "Graph")
+
+From this graph it becomes quite evident as to which countries have the highest prices and which countries have the lowest when compared to Canadas prices. If your visiting Denmark from Canada I would recommend staying away from Starbucks seeing that it is the most expensive place to buy a Starbucks tall latte and you’d be paying an extra $5.62 for the same product. In contrast, Morocco has the cheapest price out of the 10 countries so buying a tall latter from there essentially saves you 10 cents. Not that much but still cheaper!
 
 
