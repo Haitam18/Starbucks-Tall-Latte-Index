@@ -45,3 +45,5 @@ After cleaning up the data it was time to use it. I started by joining the table
 
 Now for the calculations! Once again I defined a function that takes 2 elements (x,y). The function would multiply x and y then add x to the result. In context I am multiplying the prices by the tax rate to calculate how much is paid in tax. The I am adding that result back to the original price to obtain the prices with tax factored in. I add a column to my table and title it ‘Cost with tax (CAD$).'
 
+
+![code5](code5.png "Table with tax rates factored in")
