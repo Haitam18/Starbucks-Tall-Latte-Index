@@ -73,9 +73,13 @@ I joined my newly created table with my coffee_prices_tax table and renamed it â
 
 For a visual understanding I created a bar chart that had the different countries and their respective corporate tax rates. Straight away it can be seen that Morocco had the highest corporate tax rate with the UK having the lowest. The rest were in the margin of 20% and 26% which are close. 
 
+![code7](code7.png "Corporate tax rates")
+
 From this data I can already see that there is practically no correlation between the corporate tax rate and the prices charged. Morocco was the country that served the cheapest tall latte and yet it is the country with the highest corporate tax rate, kind of odd. 
 
 To better understand the relationship, I plotted my findings in a scatter plot. I had the difference in price on the x-axis and the corporate tax rates on the y-axis with the countries being the labels. 
+
+![code8](code8.png "Scatter plot")
 
 From the graph it is evident that there is really no correlation which is not what I thought when deciding this external factor. As I said before Morocco has the highest corporate tax rate, yet their pricing is the cheapest when compared to the rest. Denmark has one of the lowest corporate tax rates, yet their pricing is the highest. 
 
