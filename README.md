@@ -63,3 +63,25 @@ For a better visual representation, I graphed my findings using a bar chart with
 From this graph it becomes quite evident as to which countries have the highest prices and which countries have the lowest when compared to Canadas prices. If your visiting Denmark from Canada I would recommend staying away from Starbucks seeing that it is the most expensive place to buy a Starbucks tall latte and you’d be paying an extra $5.62 for the same product. In contrast, Morocco has the cheapest price out of the 10 countries so buying a tall latter from there essentially saves you 10 cents. Not that much but still cheaper!
 
 
+## My chosen external factor
+
+To grasp a better understanding of why the prices of a Starbucks tall latte differ across countries I investigated a possible external factor that could possibly affect this. I decided to look at corporate tax rates in different countries and how they could be the reason for Starbucks having different pricing in different countries. Corporate tax is essentially a tax placed on businesses by the government and these rates tend to be higher for some countries and lower for others. It is fair to assume that countries with a higher corporate tax rate will make Starbucks charge more to make up for the costs paid in tax. Luckily, I already have this data as I found a site with different types of tax for various countries. Previously I used sales tax from the data, this time I am going to focus on corporate tax. 
+
+The data needed slight cleaning as I needed to drop the unneeded columns which in this case are ‘Sales Tax’ and ‘Income Tax.’ I selected the countries I have been using and created a table called ‘corp_tax_rate’ that had all the information I needed. 
+
+I joined my newly created table with my coffee_prices_tax table and renamed it ‘coffee_corp_tax_rate’. This table had all the data I have collected so far including the corporate tax rate for different countries. 
+
+For a visual understanding I created a bar chart that had the different countries and their respective corporate tax rates. Straight away it can be seen that Morocco had the highest corporate tax rate with the UK having the lowest. The rest were in the margin of 20% and 26% which are close. 
+
+From this data I can already see that there is practically no correlation between the corporate tax rate and the prices charged. Morocco was the country that served the cheapest tall latte and yet it is the country with the highest corporate tax rate, kind of odd. 
+
+To better understand the relationship, I plotted my findings in a scatter plot. I had the difference in price on the x-axis and the corporate tax rates on the y-axis with the countries being the labels. 
+
+From the graph it is evident that there is really no correlation which is not what I thought when deciding this external factor. As I said before Morocco has the highest corporate tax rate, yet their pricing is the cheapest when compared to the rest. Denmark has one of the lowest corporate tax rates, yet their pricing is the highest. 
+
+It is fair to conclude that this external factor may not play a role in how Starbucks prices their products in different countries however there is always a larger picture to look at. There could be many other external factors such as import and export fees, the cost of labour, and cost of raw materials that could have an impact on Starbucks pricing in different countries. 
+
+
+
+
+
