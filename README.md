@@ -47,3 +47,17 @@ Now for the calculations! Once again I defined a function that takes 2 elements 
 
 
 ![code5](code5.png "Table with tax rates factored in")
+
+
+### 5. Finding the countries that sell the cheapest tall latte and the countries that sell the most expensive latte
+
+To find the differences in pricing between the countries in comparison to Canada all I really needed to do was apply a lambda function. The function would take a value (x) and take away 4.36 which was the cost of a tall latte with tax in Canada. This would give me this difference in prices of all the countries in comparison to Canada. I took these values and added them to my table in a column titled ‘Difference in Prices (CAD$).'
+
+
+### 6. Graphing and analyzing my data
+
+For a better visual representation, I graphed my findings using a bar chart with the tbl.barh method. I had the differences in prices on the x-axis and the countries on the y-axis. 
+
+From this graph it becomes quite evident as to which countries have the highest prices and which countries have the lowest when compared to Canadas prices. If your visiting Denmark from Canada I would recommend staying away from Starbucks seeing that it is the most expensive place to buy a Starbucks tall latte and you’d an extra $5.62 for the same product. In contrast, Morocco has the cheapest price out of the 10 countries so buying a tall latter from there essentially saves you 10 cents. Not that much but still cheaper!
+
+
