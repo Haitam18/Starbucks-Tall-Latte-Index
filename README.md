@@ -15,3 +15,6 @@ I was able to find pricing data on Starbucks tall lattes around the world throug
 
 ![code1](code1.png "Code used for web scraping")
 ![code2](code2.png "Code used for web scraping")
+
+### My data:
+![code3](code3.png "My table")
