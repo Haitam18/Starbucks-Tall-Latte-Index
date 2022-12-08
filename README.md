@@ -34,3 +34,14 @@ This was practically all the tidying up my data needed. I am now ready to start 
 As part of the assignment, I needed to display the prices in different countries in their respective currencies. Since I already had the prices in CAD I needed to work back from there. I first gathered the exchange rates for the 10 chosen countries and created an array for them. I also created an array with all currency codes of the chosen countries. I then defined a function that simply multiplies 2 given elements, in this case it would be the price in CAD multiplied by the exchange rate of the respective country. I created a new table called ‘coffee_prices_local’ in which I brought everything together. I had 4 columns which were ‘Country’, ‘Price (CAD)’, ‘Local Currency Codes’ and ‘Local Price.’ The table displayed the 10 countries with the price of a tall latte in CAD as well as in their local prices.
 
 ![code4](code4.png "Code used for price conversions")
+
+### 4. Importing tax rate data to factor into my calculations
+
+As a bonus I decided to factor local tax rates into my calculations. I found a site that provides information on Sales Tax, Corporate Tax, and Income tax for 151 countries. 
+
+The data needed some quick cleaning for it to be useful. I started by using the ‘take’ command to select only the 10 countries I was working with. I then dropped the columns I didn’t need, for my case I will only be looking at sales tax rates as that is what is charged when purchasing a good or service. The next step was to apply a lambda function that divides the values by 100 which I did to attain the rates in decimal form. This will make it easier for me to incorporate the rates into the prices. I kept this tax data in a table called ‘tax_rate.’
+
+After cleaning up the data it was time to use it. I started by joining the tables tax_rate and coffee_prices using the ‘join’ function and called my new table coffee_prices_tax. This gave me a cleaned-up table with all the information I need at this point. 
+
+Now for the calculations! Once again I defined a function that takes 2 elements (x,y). The function would multiply x and y then add x to the result. In context I am multiplying the prices by the tax rate to calculate how much is paid in tax. The I am adding that result back to the original price to obtain the prices with tax factored in. I add a column to my table and title it ‘Cost with tax (CAD$).'
+
