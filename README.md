@@ -86,6 +86,10 @@ From the graph it is evident that there is really no correlation which is not wh
 It is fair to conclude that this external factor may not play a role in how Starbucks prices their products in different countries however there is always a larger picture to look at. There could be many other external factors such as import and export fees, the cost of labour, and cost of raw materials that could have an impact on Starbucks pricing in different countries. 
 
 
+## Condlusion
 
+Overall I think it is fair to say this was a successfull starbucks index that looked into the pricing of a tall latte in 10 different countries. It was really enjoyable to do the research and create my own index on a product of my choosing and I dont believe I came across any difficulties during the process. 
+One interesting thing I discovered along the way was the many different factors that go into pricing a product in a different country. For my external factor I chose corporate tax rates but I found that businesses tend to look at a vareity of factors to determine their pricing. 
+In the end I was able to find that Denmark was the country with the highest prices tall latte and Morocco was the country with the lowest priced latte. I later found that Denamark was not only the most expensive in my index but it was the country with the most epxinsive starbucks in the world. So dont go to Starbucks if your in Denamrk! 
 
 
