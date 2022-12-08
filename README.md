@@ -13,3 +13,4 @@ Starbucks can be considered iconic as it is one of the most recognizable coffee 
 
 I was able to find pricing data on Starbucks tall lattes around the world through this website, https://www.finder.com/ca/starbucks-index. The website essentially had the prices of a tall latte in 76 different countries all displayed in a table. After a simple scrape I had my pricing data and was ready to start tidying up.
 
+![code1](code1.png "Code used for web scraping")
