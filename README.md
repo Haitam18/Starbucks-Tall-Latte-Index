@@ -8,3 +8,5 @@ Starbucks can be considered iconic as it is one of the most recognizable coffee 
 
 
 ## Bulding my Index:
+
+### Finding my data and using web scraping to import it!
