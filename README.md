@@ -96,4 +96,4 @@ In the end I was able to find that Denmark was the country with the highest pric
 
 
 ### Citations:
-https://www.istockphoto.com/photo/composition-with-cup-of-starbucks-coffee-and-beans-gm534200892-94755217
+1. https://www.istockphoto.com/photo/composition-with-cup-of-starbucks-coffee-and-beans-gm534200892-94755217
