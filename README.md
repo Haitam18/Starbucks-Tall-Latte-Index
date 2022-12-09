@@ -95,3 +95,5 @@ One interesting thing I discovered along the way was the many different factors 
 In the end I was able to find that Denmark was the country with the highest prices tall latte and Morocco was the country with the lowest priced latte. I later found that Denamark was not only the most expensive in my index but it was the country with the most epxinsive starbucks in the world. So dont go to Starbucks if your in Denamrk! 
 
 
+### Citations:
+https://www.istockphoto.com/photo/composition-with-cup-of-starbucks-coffee-and-beans-gm534200892-94755217
